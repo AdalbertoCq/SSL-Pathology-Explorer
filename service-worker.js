@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SSL-Pathology-Explorer/precache-manifest.647731158c9709f99288d79b6e383e5f.js"
+  "/SSL-Pathology-Explorer/precache-manifest.958c689439c11342612aaf67b351ff79.js"
 );
 
 workbox.clientsClaim();
