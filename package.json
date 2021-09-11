@@ -1,12 +1,11 @@
 {
-  "name": "ssl-umap-explorer",
+  "name": "SSL-Pathology-Explorer",
   "version": "0.1.0",
-  "homepage": "http://adalbertocq.github.io/ssl-umap-explorer",
+  "homepage": "http://adalbertocq.github.io/SSL-Pathology-Explorer",
   "private": true,
   "dependencies": {
     "@tweenjs/tween.js": "^17.2.0",
     "d3": "^5.7.0",
-    "gh-pages": "^2.2.0",
     "lodash": "^4.17.11",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -31,5 +30,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
