@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ee4741d6f64ac82b0027",
+    "revision": "ffe7551e367de864bbc1",
     "url": "/SSL-Pathology-Explorer/static/css/main.a865a61c.chunk.css"
   },
   {
-    "revision": "ee4741d6f64ac82b0027",
-    "url": "/SSL-Pathology-Explorer/static/js/main.ee4741d6.chunk.js"
+    "revision": "ffe7551e367de864bbc1",
+    "url": "/SSL-Pathology-Explorer/static/js/main.ffe7551e.chunk.js"
   },
   {
     "revision": "fb74cf2e345109eb41a6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SSL-Pathology-Explorer/static/js/runtime~main.76a1f4c6.js"
   },
   {
-    "revision": "aceca87ec9555b6a3bae82eaa23a1c31",
+    "revision": "80c5f4bed8d81faa111e8734946d5216",
     "url": "/SSL-Pathology-Explorer/index.html"
   }
 ];
